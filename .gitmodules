@@ -1,3 +1,6 @@
 [submodule "extern/h5bp"]
 	path = extern/h5bp
 	url = https://github.com/h5bp/html5-boilerplate.git
+[submodule "extern/less"]
+	path = extern/less
+	url = git://github.com/cloudhead/less.js.git
