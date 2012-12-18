@@ -1,0 +1,3 @@
+[submodule "extern/h5bp"]
+	path = extern/h5bp
+	url = https://github.com/h5bp/html5-boilerplate.git
